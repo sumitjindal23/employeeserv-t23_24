@@ -1,9 +1,7 @@
 package com.paypal.bfs.test.employeeserv.converters;
 
 import com.paypal.bfs.test.employeeserv.api.model.Employee;
-import com.paypal.bfs.test.employeeserv.entity.AddressEntity;
 import com.paypal.bfs.test.employeeserv.entity.EmployeeEntity;
-import org.springframework.core.convert.ConversionService;
 import org.springframework.core.convert.converter.Converter;
 
 import javax.inject.Inject;

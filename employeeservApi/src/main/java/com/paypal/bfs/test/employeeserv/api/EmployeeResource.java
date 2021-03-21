@@ -31,6 +31,12 @@ public interface EmployeeResource {
     // TODO - add a new operation for creating employee resource.
     // ----------------------------------------------------------
 
+    /**
+     * Create the Employee Resources
+     *
+     * @param employee
+     * @return
+     */
     @PostMapping(consumes = {MediaType.APPLICATION_JSON_VALUE},
             produces = {MediaType.APPLICATION_JSON_VALUE})
     ResponseEntity<Employee> createEmployee(@RequestBody @Valid Employee employee);
