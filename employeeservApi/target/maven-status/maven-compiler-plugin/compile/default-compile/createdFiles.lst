@@ -1,0 +1,5 @@
+com/paypal/bfs/test/employeeserv/api/validation/EmployeeValidator.class
+com/paypal/bfs/test/employeeserv/api/validation/ValidEmployee.class
+com/paypal/bfs/test/employeeserv/api/model/Address.class
+com/paypal/bfs/test/employeeserv/api/EmployeeResource.class
+com/paypal/bfs/test/employeeserv/api/model/Employee.class
